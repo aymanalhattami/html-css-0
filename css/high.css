@@ -1,0 +1,147 @@
+body {
+    background-color: #A9B6BF;
+}
+
+#header {
+    background-color:#194975;
+    width:auto;
+    min-height:10px;
+    text-align: right;
+}
+
+#img_top {
+    width: 700px;
+    margin-right: 400px;
+}
+#header ul 
+{
+    margin-right: 255px;
+}
+
+
+#header ul li{
+    display: inline-block;
+    padding: 10px;
+    margin-right: 12px;
+}
+
+#header ul li a
+{
+    color: #fff;
+    text-decoration: none;
+    font-size:25px;
+}
+
+#header ul li a:hover
+{
+   text-decoration: underline;
+    color: #000;
+}
+
+
+#container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(187, 193, 203, 0.65);
+    border: 1px solid #9f0c0c;
+}
+
+#title {
+    margin-right: 5px;
+}
+
+#grade {
+    width: 790px;
+    font-size: 20px;
+    font-family: Al-hor;
+     border-bottom: 2px solid #194975;
+}
+
+#center-pc {
+    width: 500px;
+    font-size: 20px;
+    float: right;
+    padding-right: 10px;
+    background-color: rgba(187, 193, 203, 0.65);
+    float: right;
+    padding-top: 10px;
+}
+
+#cisco {
+    width: 800px;
+    font-size: 20px;
+    float: right;
+    background-color: rgba(187, 193, 203, 0.65);
+}
+
+#center-img {
+    width: 300px;
+    /*border: 1px solid red;*/
+    float: left;
+}
+
+#footer {
+    background-color:#032B3F;
+    width:auto;
+    text-align: right;
+    color: #fff;
+    min-height: 180px;
+    margin-top: 20px;
+   
+}
+
+#imagefooter {
+    width: 160px;
+    display: inline-block;
+    margin-right: 180px;
+    text-indent: 15px;
+    margin-top: 2px;
+}
+
+#links {
+    display: inline-block;
+    width: 140px;
+    min-height: 140px;
+    margin-right: 70px;
+}
+
+#links a
+{
+    text-decoration: none;
+    color: #fff;
+}
+
+#links a:hover
+{
+    text-decoration: underline;
+}
+
+#again {
+    width: 350px;
+    display: inline-block;
+    margin-right: 60px;
+    margin-top: 10px;
+}
+
+#contact {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+#copy {
+    width: 280px;
+    margin-right: 900px;
+}
+
+#ceter-img {
+    width: 290px;
+    padding-left: 10px;
+    padding-top: 30px;
+}
+
+#cisco-imgs {
+    width: auto;
+    padding-left: 25px;
+    border-bottom: 2px solid #194975;
+}

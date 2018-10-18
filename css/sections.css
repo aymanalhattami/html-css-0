@@ -1,0 +1,139 @@
+body{
+    background-color: #EEE;
+}
+
+#header2 {
+    background-color:#194975;
+    width:auto;
+    min-height:10px;
+    text-align: right;
+}
+
+#img_top2 {
+     width: 700px;
+    margin-right: 370px;
+}
+#header2 ul 
+{
+    margin-right: 240px;
+}
+
+#header2 ul li{
+    display: inline-block;
+    padding: 10px;
+    margin-right: 12px;
+}
+
+#header2 ul li a
+{
+    color: #fff;
+    text-decoration: none;
+    font-size:25px;
+}
+
+#header2 ul li a:hover
+{
+    color:black;
+}
+
+#container2 {
+    width: 1000px;
+    margin: auto;
+    /*border: 1px solid #0d5bbf;*/
+}
+
+#content2 {
+    width: 800px;
+    margin: auto;
+    border: 1px solid #0a0909;
+    background-color: rgba(216, 219, 222, 0.51);
+}
+
+#subsections {
+    width: 798px;
+    border: 1px solid #B2D3DE;
+    background-color: #B2D3DE;
+    min-height: 60px;
+}
+
+#subsections ul {
+    margin-right: 160px;
+}
+
+#subsections ul li 
+{
+    display: inline-block;
+    padding: 10px;
+    margin-right: 12px;
+}
+#subsections ul li a
+{
+    text-decoration: none;
+}
+
+#subsections ul li a:hover
+{
+    text-decoration: underline;
+    color: black;
+}
+
+#footer {
+    background-color:#032B3F;
+    width:auto;
+    text-align: right;
+    color: #fff;
+    min-height: 180px;
+    margin-top: 6px;
+}
+
+#imagefooter {
+    width: 160px;
+    display: inline-block;
+    margin-right: 180px;
+    text-indent: 15px;
+    /*border: 1px solid red;*/
+    margin-top: 2px;
+}
+
+#links {
+    display: inline-block;
+    width: 140px;
+   /* border: 1px solid red;*/
+    min-height: 140px;
+    margin-right: 70px;
+}
+
+#links a
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+#links a:hover
+{
+    color: #fff;
+    text-decoration: underline;
+}
+
+#again {
+    width: 350px;
+    display: inline-block;
+    margin-right: 60px;
+    margin-top: 10px;
+    /*border: 1px solid red;*/
+}
+
+#contact {
+    display: inline-block;
+    margin-right: 50px;
+    /*border: 1px solid red;*/
+}
+
+#copy {
+    width: 280px;
+    margin-right: 900px;
+    /*border: 1px solid red;*/
+}
+
+
+
